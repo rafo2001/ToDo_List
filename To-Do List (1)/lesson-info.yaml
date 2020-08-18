@@ -1,0 +1,8 @@
+type: framework
+custom_name: To-Do List
+content:
+- Plan it
+- I am an Alchemist!
+- Deadlines are scary
+- Bye, completed tasks
+current_task: 0
